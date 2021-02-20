@@ -8,9 +8,10 @@ anaerobic microbial communities responsible for breaking down lignocellulosic bi
 
 
 # 
-## Geizecler Tomazetto
+### Geizecler Tomazetto
 
 Geizecler Tomazetto
+Ph.D Microbial Genetics
 geizetomazetto@bce.au.dk 
 
 
