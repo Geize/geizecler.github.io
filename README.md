@@ -7,4 +7,4 @@ anaerobic microbial communities responsible for breaking down lignocellulosic bi
 
 
 
-<p><img src="/Users/geizeclertomazetto/Google Drive" alt="Tomazetto_face.jpg" /></p>
+
