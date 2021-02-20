@@ -1,4 +1,5 @@
-### About
+## About
+
 
 I am a postodoctoral researched at in Department of Biological and 
 Chemical Engineering at Aarhus University. I study fungi, bacteria and 
